@@ -3,7 +3,7 @@
 ## GET STARTED NOW
 1. run the following in any debian/ubuntu based terminal and follow the prompts.
 ```
-git clone https://github.com/xorgnak/nomadic && cd nomadic && ./nomadic
+git clone https://github.com/nomadic-linux/nomadic && cd nomadic && ./nomadic
 ```
 2. that's it.  you're done.  Just wait for the installer to finish.
 3. Support further development...
@@ -59,7 +59,6 @@ tasks:
  scanme
  watch <dir>
  tor
- add <extension>
 ```
 ## stats
 ###
