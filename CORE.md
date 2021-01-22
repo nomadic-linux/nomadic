@@ -6,3 +6,6 @@ irc: The nearly thirty year old backbone of internet communications.
 
 markdown: A generic html generator useful for formatting and structuring notes and content.
 
+cabage: A ruby service handling generic user interactions via http POST requests and generating dynamic user interfaces and markdown content.
+
+nomad: A script simplifying many maintanance tasks.
