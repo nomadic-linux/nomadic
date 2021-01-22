@@ -1,6 +1,6 @@
-[:arrow_up:](/PROCESS.md) [:arrow_left:](/HUB.md)
+# [:arrow_up:](/PROCESS.md) [:arrow_left:](/HUB.md)
 
-### These tools are for programming with [nodes](/NODE.md) and interfacing with the [base](/HIVE.md).
+### These tools are for programming with [nodes](/NODE.md) and interfacing with the [base](/BASE.md).
 
 arduino: used to program IoT devices.
 
