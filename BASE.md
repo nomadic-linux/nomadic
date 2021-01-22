@@ -1,3 +1,5 @@
+# [:arrow_up:](/PROCESS.md)
+
 ## BASE
 This server runs in the cloud and in addition to hosting the client web app also does the following:
 - [ ] register new [hubs](/HUB.md).
