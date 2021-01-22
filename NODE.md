@@ -1,0 +1,3 @@
+- [ ] NAT routing.
+- [ ] mqtt -> usb hid.
+- [ ] neopixels.
