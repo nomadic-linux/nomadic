@@ -1,4 +1,3 @@
-cabage: A ruby service handling generic user interactions via http POST requests and generating dynamic user interfaces and markdown content.
-
-nomad: A script simplifying many maintanance tasks.
-
+lxde: a minimalist desktop environment.
+gdm3: a lightweight display manager.
+firefox-esr: the firefox web browser with extended support release cycles.
