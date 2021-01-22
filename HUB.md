@@ -1,6 +1,4 @@
-### [:up:](/PROCESS.md)
-
-[:left:](/CORE.md) [:right:](/DEV.md)
+# [:arrow_up:](/PROCESS.md) [:arrow_left:](/CORE.md) [:arrow_right:](/DEV.md)
 
 lxde: a minimalist desktop environment.
 
